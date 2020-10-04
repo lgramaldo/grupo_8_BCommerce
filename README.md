@@ -1,4 +1,6 @@
--------------------------------------------------------------------------BCommerce----------------------------------------------------------
+-------------------------------------------------------------------------BCommerce-------------------------------------------------------------
+
+
 Oferta Productos y Servicios
 Productos
 Nuestro sitios se comercializa Bicletas de diversas tipologias, sean estas 
@@ -15,7 +17,7 @@ Servicios
  Lavado y engrase
 Guias - Informes - Novedades - Eventos - Recomendaciones
 
----------------------------------------------------------------------Descripcion de integrantes de Equipo----------------------------------
+---------------------------------------------------------------------Descripcion de integrantes de Equipo-------------------------------------
  
  
  Ignacio:
