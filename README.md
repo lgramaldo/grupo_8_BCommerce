@@ -1,4 +1,4 @@
--------------------------------------------------------------------------BCommerce-------------------------------------------------------------------------------
+-------------------------------------------------------------------------BCommerce----------------------------------------------------------
 Oferta Productos y Servicios
 Productos
 Nuestro sitios se comercializa Bicletas de diversas tipologias, sean estas 
@@ -15,7 +15,7 @@ Servicios
  Lavado y engrase
 Guias - Informes - Novedades - Eventos - Recomendaciones
 
----------------------------------------------------------------------Descripcion de integrantes de Equipo-------------------------------------------------------------
+---------------------------------------------------------------------Descripcion de integrantes de Equipo----------------------------------
  
  
  Ignacio:
@@ -33,7 +33,7 @@ Guias - Informes - Novedades - Eventos - Recomendaciones
                       Dedico también algun tiempo a la lectura. 
                       
                       
-------------------------------------------------------------------------Sitio Dedicados a la Temática---------------------------------------------------------------
+------------------------------------------------------------------------Sitio Dedicados a la Temática------------------------------------------
 1-https://www.newbikes.com.ar/
 2-https://www.ternbicycles.com/ar/
 3-https://www.bicicletasraleigh.com.ar
@@ -44,7 +44,7 @@ Guias - Informes - Novedades - Eventos - Recomendaciones
 
 
 
--------------------------------------------------------------------------------Fuentes--------------------------------------------------------------------------------
+-------------------------------------------------------------------------------Fuentes---------------------------------------------------------
 souce:
 https://blog.terranea.es/principales-tipos-bicicletas/
 https://www.brujulabike.com/marcas-de-bicicletas/
