@@ -23,7 +23,7 @@ Guias - Informes - Novedades - Eventos - Recomendaciones
  Ignacio:
  
  
- Lis : 
+ Yarden : Siempre me encontre en la bicicleta a la hora de necesitar un break o simplemente tomar aire, mi nombre es Yarden lis, tengo 22 años, naci en israel y actualmente vivo en Buenos Aires. Trabajo en logistica y distribucion de un comercio, y en mis tiempos libres los dedico a escuchar mucha musica y siempre aprender cosas nuevas.
  
  
  
