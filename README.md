@@ -20,7 +20,7 @@ Guias - Informes - Novedades - Eventos - Recomendaciones
 ---------------------------------------------------------------------Descripcion de integrantes de Equipo-------------------------------------
  
  
- Ignacio:
+ Ignacio: Mi nombre es Ignacio Maisterrena y desde chico mi pasion siempre fue andar en bici, siempre me gusto porque es una forma de desconectarme y hacer ejercicio. Ahora en la cuarentena hice un curso de progrmacion y me esta gustando mucho.
  
  
  Yarden : Siempre me encontre en la bicicleta a la hora de necesitar un break o simplemente tomar aire, mi nombre es Yarden lis, tengo 22 años, naci en israel y actualmente vivo en Buenos Aires. Trabajo en logistica y distribucion de un comercio, y en mis tiempos libres los dedico a escuchar mucha musica y siempre aprender cosas nuevas.
