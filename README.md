@@ -57,3 +57,5 @@ https://www.brujulabike.com/marcas-de-bicicletas/
 https://10mejores.top/bicicleta-plegable/
 https://www.ciclotop.com/mejores-bicicletas-plegables/
 
+------------------------------------------------------------------Direccion Tablero Trabajo Trello -----------------------------------------------
+https://trello.com/b/ei3jiqny/grupo8bcommerce 
